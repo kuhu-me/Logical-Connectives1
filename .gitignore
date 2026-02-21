@@ -1,0 +1,10 @@
+# IntelliJ
+.idea/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment (if you create one later)
+venv/
+.env/
